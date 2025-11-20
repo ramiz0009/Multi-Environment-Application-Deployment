@@ -1,0 +1,35 @@
+.tickets-container {
+    text-align: center;
+  }
+  
+  .task-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .column {
+    width: 45%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .completed {
+    background-color: #c8e6c9;
+  }
+  
+  .pending {
+    background-color: #ffcdd2;
+  }
+  
+  .task-item {
+    margin: 5px 0;
+    font-size: 16px;
+  }
+  
+  .created-at {
+    font-size: 12px;
+    color: gray;
+  }
+  

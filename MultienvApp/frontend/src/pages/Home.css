@@ -1,0 +1,22 @@
+.home-container {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .nav-links {
+    margin-top: 20px;
+  }
+  
+  .nav-links a {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #1a73e8;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .nav-links a:hover {
+    background-color: #1557b0;
+  }
+  
