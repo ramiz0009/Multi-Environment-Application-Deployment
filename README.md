@@ -1,4 +1,4 @@
-# Multi-Environment Application Deployment (Flask + React + Docker + MongoDB)
+# Multi-Environment Application Deployment
 
 This project demonstrates a **complete multi-environment deployment** of a Ticket Management Application using Docker. It includes:
 
