@@ -196,9 +196,11 @@ volumes:
 ```
 docker compose up --build -d
 
-<img width="889" height="95" alt="image" src="https://github.com/user-attachments/assets/e19b5849-0bde-4eba-bce7-21cc52858690" />
+<img width="889" height="95" alt="image" src="https://github.com/user-attachments/assets/202b9c6a-6675-446e-bfc0-ef645ab6fac9" />
 
-<img width="820" height="404" alt="image" src="https://github.com/user-attachments/assets/d8673a7a-6789-4b10-b519-dffd69fb3aa6" />
+
+<img width="820" height="404" alt="image" src="https://github.com/user-attachments/assets/35eccd14-b763-41b0-b3da-cd2639178837" />
+
 
 ```
 
