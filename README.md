@@ -193,7 +193,6 @@ volumes:
 
 # Start all containers
 
-```
 docker compose up --build -d
 
 <img width="889" height="95" alt="image" src="https://github.com/user-attachments/assets/202b9c6a-6675-446e-bfc0-ef645ab6fac9" />
@@ -202,16 +201,12 @@ docker compose up --build -d
 <img width="820" height="404" alt="image" src="https://github.com/user-attachments/assets/35eccd14-b763-41b0-b3da-cd2639178837" />
 
 
-```
-
 # Verify running containers
 
-```
 docker ps
 
 -<img width="902" height="169" alt="image" src="https://github.com/user-attachments/assets/1b7a6075-6c62-4bb2-beb8-3808866b408d" />
 
-```
 
 ### Expected Output
 
