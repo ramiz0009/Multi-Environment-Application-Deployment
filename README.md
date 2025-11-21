@@ -191,7 +191,7 @@ volumes:
 
 # 🧪 Testing the Deployment
 
-### ▶ Start all containers
+# Start all containers
 
 ```
 docker compose up --build -d
@@ -202,7 +202,7 @@ docker compose up --build -d
 
 ```
 
-### ▶ Verify running containers
+# Verify running containers
 
 ```
 docker ps
